@@ -1,7 +1,7 @@
 ## Mandelbrot Visualizer
 
 
-## YouTube/Dropbox/Drive Link: https://youtu.be/2EpjUas5XLo
+## YouTube Video Link (watch this!): https://youtu.be/2EpjUas5XLo
 
 
 <img src="./media/screenshot2.png">
