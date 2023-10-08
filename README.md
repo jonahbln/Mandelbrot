@@ -4,16 +4,16 @@
 ## YouTube/Dropbox/Drive Link: https://youtu.be/2EpjUas5XLo
 
 
-<img src="./part1/media/screenshot2.png">
+<img src="./media/screenshot2.png">
 
 
-<img src="./part1/media/screenshot3.png">
+<img src="./media/screenshot3.png">
 
 
-<img src="./part1/media/screenshot4.png">
+<img src="./media/screenshot4.png">
 
 
-<img src="./part1/media/screenshot5.png">
+<img src="./media/screenshot5.png">
 
 
 * Name
